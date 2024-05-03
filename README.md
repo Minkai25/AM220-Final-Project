@@ -73,15 +73,3 @@ python run_graph_classification.py --layer_type GCN \
 	--rewiring fosr \
 	--num_iterations 10
 ```
-
-## Citation and reference
-For technical details and full experiment results, please check [our paper](https://arxiv.org/abs/2211.15779).
-```
-@inproceedings{
-nguyen2023revisiting,
-title={Revisiting Over-smoothing and Over-squashing Using {Ollivier-Ricci} Curvature},
-author={Khang Nguyen and Hieu Nong and Vinh Nguyen and Nhat Ho and Stanley Osher and Tan Nguyen},
-booktitle={International Conference on Machine Learning},
-year={2023}
-}
-```
